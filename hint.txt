@@ -1,0 +1,1 @@
+Implement changeUsername() to return the string from fetchNewUsername() or (if that fails) the string value of any error that occurs. You'll need a try-catch statement to catch and handle errors.
